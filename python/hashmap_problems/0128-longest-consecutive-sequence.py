@@ -23,5 +23,5 @@ class Solution:
 # the nested loops actually run in O(n + n) = O(n) time.
 
 # Space complexity: O(n)
-# in order to set up O(1) lookups, we allocate linear space for a hash
+# In order to set up O(1) lookups, we allocate linear space for a hash
 # table to store the O(n) numbers in nums.
