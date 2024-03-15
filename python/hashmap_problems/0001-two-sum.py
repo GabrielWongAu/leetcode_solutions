@@ -9,8 +9,11 @@ class Solution:
                 return [num_dict[diff],index]
             num_dict[num] = index
 
-# Time complexity: O(n) We traverse the list containing n elements only once.
+
+# Time complexity: O(n) 
+# We traverse the list containing n elements only once.
 # Each lookup only takes O(1) time.
 
-# Space complexity: O(n) The extra space required depends on the number of
+# Space complexity: O(n) 
+# The extra space required depends on the number of
 # items stored in the hash table, which stores at most n elements.
