@@ -1,11 +1,11 @@
 # Leetcode solutions
 
 #### Hashmap Problems
-- [0001-two-sum](python%2F0001-two-sum.py)
-- [0049-group-anagrams](python%2F0049-group-anagrams.py)
-- [0128-longest-consecutive-sequence](python%2F0128-longest-consecutive-sequence.py)
-- [0217-contains-duplicates](python%2F0217-contains-duplicates.py)
-- [0242-valid-anagram](python%2F0242-valid-anagram.py)
+- [0001-two-sum](python%2Fhashmap_problems%2F0001-two-sum.py)
+- [0049-group-anagrams](python%2Fhashmap_problems%2F0049-group-anagrams.py)
+- [0128-longest-consecutive-sequence](python%2Fhashmap_problems%2F0128-longest-consecutive-sequence.py)
+- [0217-contains-duplicates](python%2Fhashmap_problems%2F0217-contains-duplicates.py)
+- [0242-valid-anagram](python%2Fhashmap_problems%2F0242-valid-anagram.py)
 
 #### Tree Problems
 - [0100-same-tree](python%2F0100-same-tree.py)
